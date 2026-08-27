@@ -29,6 +29,7 @@
 | --- | --- | --- |
 | [`@postcss-go/core`](https://www.npmjs.com/package/@postcss-go/core) | Node.js / TypeScript API and browser WASM | [![npm weekly downloads](https://img.shields.io/npm/dw/@postcss-go/core.svg)](https://www.npmjs.com/package/@postcss-go/core) |
 | [`@postcss-go/webpack-loader`](https://www.npmjs.com/package/@postcss-go/webpack-loader) | Webpack 5 adapter without a `postcss-loader` dependency | [![npm weekly downloads](https://img.shields.io/npm/dw/@postcss-go/webpack-loader.svg)](https://www.npmjs.com/package/@postcss-go/webpack-loader) |
+| [`@postcss-go/vite-loader`](https://www.npmjs.com/package/@postcss-go/vite-loader) | Vite plugin without a PostCSS dependency | [![npm weekly downloads](https://img.shields.io/npm/dw/@postcss-go/vite-loader.svg)](https://www.npmjs.com/package/@postcss-go/vite-loader) |
 
 ## Acknowledgements
 
